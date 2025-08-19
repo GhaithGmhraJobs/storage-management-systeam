@@ -36,13 +36,13 @@ The goal was to design and implement a functional application that demonstrates 
 Below are examples to illustrate the project functionality:
 
 - **Screenshot 1: [SQL Database]**  
-  ![Screenshot 1](./screenshots/sql.JPG)
+  ![Screenshot 1](./assets/sql.JPG)
 
 - **Demo Video:**  
-  [▶ Watch Demo Video](./demo/demo.mp4)
+  [▶ Watch Demo Video](./assets/demo.mp4)
 
 - **Screenshot 2: [SQL Database after editing]**  
-  ![Screenshot 2](./screenshots/sqltest.JPG)
+  ![Screenshot 2](./assets/sqltest.JPG)
 
 ---
 
