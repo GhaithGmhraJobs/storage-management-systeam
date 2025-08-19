@@ -38,10 +38,10 @@ Below are examples to illustrate the project functionality:
 - **Screenshot 1: [SQL Database]**  
   ![Screenshot 1](./assets/sql.JPG)
 
-- **Demo Video:**  
-  [▶ Watch Demo Video](./assets/demo.mp4)
+- **Screenshot 2: [Homepage demo]**  
+  ![Screenshot 2](./assets/homepage.JPG)
 
-- **Screenshot 2: [SQL Database after editing]**  
+- **Screenshot 3: [SQL Database after editing]**  
   ![Screenshot 2](./assets/sqltest.JPG)
 
 ---
